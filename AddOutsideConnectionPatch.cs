@@ -1,7 +1,7 @@
 ﻿using HarmonyLib;
 using ColossalFramework;
 
-namespace OutisdeTrafficBalancer
+namespace OutsideTrafficBalancer
 {
     //
     // This patch records each outside connection (both road and non-road), which is from then on tracked by OutsideConnectionsInfo.

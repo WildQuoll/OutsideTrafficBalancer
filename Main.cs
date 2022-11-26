@@ -1,11 +1,11 @@
 ﻿using ICities;
 using CitiesHarmony.API;
 
-namespace OutisdeTrafficBalancer
+namespace OutsideTrafficBalancer
 {
     public class Mod : IUserMod
     {
-        public string Name => "Outisde Traffic Balancer";
+        public string Name => "Outside Traffic Balancer";
         public string Description => "Adjusts the amount of road traffic using each outside connection, based on road capacity.";
 
         public void OnEnabled()

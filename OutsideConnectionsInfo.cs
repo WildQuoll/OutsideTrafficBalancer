@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace OutisdeTrafficBalancer
+namespace OutsideTrafficBalancer
 {
     public static class OutsideConnectionsInfo
     {

@@ -1,10 +1,10 @@
 ﻿using HarmonyLib;
 
-namespace OutisdeTrafficBalancer
+namespace OutsideTrafficBalancer
 {
     public static class Patcher
     {
-        private const string HarmonyId = "WQ.OutisdeTrafficBalancer";
+        private const string HarmonyId = "WQ.OutsideTrafficBalancer";
         private static bool patched = false;
 
         public static void PatchAll()

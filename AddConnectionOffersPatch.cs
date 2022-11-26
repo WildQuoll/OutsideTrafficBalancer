@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace OutisdeTrafficBalancer
+namespace OutsideTrafficBalancer
 {
     //
     // This patch is called whenever the game is about to issue new transfer manager offers for an outside connection.
